@@ -7,7 +7,7 @@ This is a complied version of PyQt5 for Maya 2018
 This Version is made using Python version 2.7.11
 
 ---------------------------------------------------------------------
-USUAGE:
+USAGE:
 ---------------------------------------------------------------------
 import sys
 
