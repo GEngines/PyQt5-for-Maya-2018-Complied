@@ -1,11 +1,14 @@
-# PyQt5-for-Maya-2018-Complied-
-This is a complied version of PyQt5 for Maya 2018
+# PyQt5-for-Maya-2018-Complied
 
+--------------------------------------------------------
+This is a complied version of PyQt5 for Maya 2018
+--------------------------------------------------------
+
+This Version is made using Python version 2.7.11
 
 ---------------------------------------------------------------------
-
-usage :
-
+USUAGE:
+---------------------------------------------------------------------
 import sys
 
 folderPath = "" # Root folder of sip and pyqt5 folders
